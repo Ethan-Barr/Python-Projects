@@ -2,6 +2,8 @@
 
 Welcome to my Python projects repository! Here, you'll find a collection of Python projects, each designed to demonstrate various levels of expertise and proficiency with Python. This repository includes a range of projects, from terminal-based applications to more advanced and complex systems.
 
+Source code for each project will be released weekly, so keep an eye out for source-code and new projects ideas. 
+
 ## Table of Contents
 
 - [Fundamentals](#fundamentals)
@@ -103,13 +105,13 @@ These projects involve more complex systems and require advanced knowledge of Py
    - **Link:** [movie-recommender.py](./advanced/movie-recommender.py)
 
 
-*More to come*
+* *More to come soon*
 
 ## Specialized Topics
 
 These projects focus on specific areas or technologies, allowing you to dive deeper into a particular domain.
 
-* To come soon*
+* *To come soon*
 
 ## Resources
 
