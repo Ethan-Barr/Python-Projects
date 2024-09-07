@@ -35,6 +35,7 @@ These beginner projects focus on fundamental Python concepts and basic programmi
    - **Description:** A simple countdown timer that takes input in seconds and counts down to zero.
    - **Skills Learned:** Time module, loops, user input.
    - **Link:** [countdown-timer.py](./fundamentals/countdown-timer.py)
+   - **Challenge:** Add a progress bar to the timer for a visaul representation. 
 
 5. **To-Do List**
    - **Description:** A command-line application to manage tasks, allowing users to add, view, and remove items from a to-do list.
@@ -124,3 +125,4 @@ Here are some useful resources that have helped me in my Python development jour
 ---
 
 Feel free to explore the projects, and if you have any questions or suggestions, don't hesitate to reach out or open an issue!
+Feel free to also join the [Discord Sever](https://discord.gg/sm2ZdxvU6y) where you can show off your attempts, you can always ping me at `@_ethan_0200`. 
